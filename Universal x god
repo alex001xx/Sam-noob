@@ -1,4 +1,4 @@
- local ji1L1iooOo=(getfenv and getfenv(1)) or _ENV or _G
+local ji1L1iooOo=(getfenv and getfenv(1)) or _ENV or _G
 local ilO0iI0OL,iii0Ol=string.byte,string.char
 local function ij0OO1ioOjOO(IiIIiooL1loio,lLOoIj0j)
 local j0ILiLl1L1Ll1=""
@@ -360,4 +360,3 @@ end
 return i11jlL
 end
 return LjO0O0LI(L0jjloLLOi0O1o,{},jL0Lj0ILILjoOO(...))
- 
